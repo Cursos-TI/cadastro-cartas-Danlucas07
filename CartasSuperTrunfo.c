@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-typedef struct { // Estrutura (é um recurso da linguagem C que permite agrupar variáveis de tipos diferentes ou iguais em um "único pacote")
+typedef struct { // Estrutura (é um recurso da linguagem C, que permite agrupar variáveis de tipos diferentes ou iguais em um "único pacote")
 
     
     char estado;        // Elemento "estado" da estrutura "carta"
