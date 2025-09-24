@@ -88,5 +88,5 @@ int main(void) {
     printf("PIB: %.2f Bilhões de reais\n", carta2.pib);
     printf("Pontos turisticos: %d\n", carta2.pontos);
 
-    return 0;
+    return 0; //finalização
 }
